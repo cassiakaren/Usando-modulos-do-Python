@@ -7,5 +7,5 @@ n3=str(input('terveiro aluno:'))
 n4=str(input('quarto aluno:'))
 lista=[n1,n2,n3,n4]
 random.shuffle(lista)#shuffle para embaralhar
-print('a ordem de apresentação será:')
+print('A ordem de apresentação será:')
 print(lista)
